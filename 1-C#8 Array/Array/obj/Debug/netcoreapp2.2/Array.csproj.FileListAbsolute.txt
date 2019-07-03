@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\bin\Debug\netcoreapp2.2\Array.deps.json
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\bin\Debug\netcoreapp2.2\Array.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\bin\Debug\netcoreapp2.2\Array.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\bin\Debug\netcoreapp2.2\Array.dll
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\bin\Debug\netcoreapp2.2\Array.pdb
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.dll
+D:\Projects\ITI.net-training-2019\1-C#8 Array\Array\obj\Debug\netcoreapp2.2\Array.pdb
