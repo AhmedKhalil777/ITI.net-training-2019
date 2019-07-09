@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\bin\Debug\netcoreapp2.2\SecondEquation.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\bin\Debug\netcoreapp2.2\SecondEquation.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\bin\Debug\netcoreapp2.2\SecondEquation.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\bin\Debug\netcoreapp2.2\SecondEquation.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\bin\Debug\netcoreapp2.2\SecondEquation.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\SecondEquation\obj\Debug\netcoreapp2.2\SecondEquation.pdb

@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\bin\Debug\netcoreapp2.2\Students.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\bin\Debug\netcoreapp2.2\Students.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\bin\Debug\netcoreapp2.2\Students.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\bin\Debug\netcoreapp2.2\Students.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\bin\Debug\netcoreapp2.2\Students.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\Students\obj\Debug\netcoreapp2.2\Students.csprojAssemblyReference.cache

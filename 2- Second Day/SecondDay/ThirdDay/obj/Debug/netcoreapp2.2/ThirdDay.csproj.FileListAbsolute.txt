@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\bin\Debug\netcoreapp2.2\ThirdDay.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\bin\Debug\netcoreapp2.2\ThirdDay.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\bin\Debug\netcoreapp2.2\ThirdDay.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\bin\Debug\netcoreapp2.2\ThirdDay.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\bin\Debug\netcoreapp2.2\ThirdDay.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\ThirdDay\obj\Debug\netcoreapp2.2\ThirdDay.pdb

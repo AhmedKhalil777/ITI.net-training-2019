@@ -1,0 +1,7 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\bin\Debug\_1_NewWorld.exe.config
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\bin\Debug\_1_NewWorld.exe
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\bin\Debug\_1_NewWorld.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\obj\Debug\_1_NewWorld.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\obj\Debug\_1_NewWorld.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\obj\Debug\_1_NewWorld.exe
+D:\Projects\ITI.net-training-2019\2- Second Day\SecondDay\_1_NewWorld\obj\Debug\_1_NewWorld.pdb

@@ -106,5 +106,43 @@ class Program
     }
 }
 ```
+
 ![](Array/pics/3.PNG)
+
+## Index
+
+- First. How can we get the first element? The first element is at index 0.
+- It can be accessed by using the indexer syntax
+- To be safe, we often must check for empty arrays.
+C# program that gets first array element
+
+```
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int[] array = new int[2]; // Create an array.
+        array[0] = 10;
+        array[1] = 3021;
+
+        Test(array);
+        Test(null); // No output.
+        Test(new int[0]); // No output.
+    }
+
+    static void Test(int[] array)
+    {
+        if (array != null &&
+            array.Length > 0)
+        {
+            int first = array[0];
+            Console.WriteLine(first);
+        }
+    }
+}
+```
+![](Array/pics/4.PNG)
+
 

@@ -11,7 +11,8 @@ namespace Array
                              +"\n===================================================="+
                               "\n1 - 3 versions of Declaring Arrays"+
                               "\n2 - passing Array" 
-                              +"\n3 - Return Array");
+                              +"\n3 - Return Array"
+                              +"\n4- Index");
             int x = Convert.ToInt32(Console.ReadLine());
             switch (x)
             {
@@ -26,6 +27,14 @@ namespace Array
 
                case 3:
                System.Console.WriteLine(string.Join(" ",returnArray()));
+               goto m;
+
+               case 4:
+               int[] r =new int[] {10,20};
+               int[] z = new int[0];
+               Index(r);
+               Index(null);
+               Index(z);
                goto m;
 
                 default:
@@ -71,5 +80,17 @@ namespace Array
         return array;
     }
 #endregion
+  
+#region Index
+ static void Index(int[] arr){
+
+     if (arr.Length > 0&& arr !=null)
+     {
+         System.Console.WriteLine(arr[0]);
+     }
+ }  
+    
+#endregion
+
     }
 }
