@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\bin\Debug\netcoreapp2.2\MultiInhiritance.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\bin\Debug\netcoreapp2.2\MultiInhiritance.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\bin\Debug\netcoreapp2.2\MultiInhiritance.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\bin\Debug\netcoreapp2.2\MultiInhiritance.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\bin\Debug\netcoreapp2.2\MultiInhiritance.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\MultiInhiritance\obj\Debug\netcoreapp2.2\MultiInhiritance.pdb

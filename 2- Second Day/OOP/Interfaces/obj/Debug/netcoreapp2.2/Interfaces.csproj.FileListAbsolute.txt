@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.pdb

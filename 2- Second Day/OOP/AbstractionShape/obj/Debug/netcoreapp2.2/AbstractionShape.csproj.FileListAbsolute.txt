@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\bin\Debug\netcoreapp2.2\AbstractionShape.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\bin\Debug\netcoreapp2.2\AbstractionShape.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\bin\Debug\netcoreapp2.2\AbstractionShape.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\bin\Debug\netcoreapp2.2\AbstractionShape.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\bin\Debug\netcoreapp2.2\AbstractionShape.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\AbstractionShape\obj\Debug\netcoreapp2.2\AbstractionShape.pdb

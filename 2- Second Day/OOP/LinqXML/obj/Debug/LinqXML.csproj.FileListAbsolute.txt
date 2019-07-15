@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.Form1.resources
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.Properties.Resources.resources
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.csproj.GenerateResource.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\bin\Debug\LinqXML.exe.config
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\bin\Debug\LinqXML.exe
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\bin\Debug\LinqXML.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.exe
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\LinqXML\obj\Debug\LinqXML.Add.resources

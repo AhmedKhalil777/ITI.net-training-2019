@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\bin\Debug\netcoreapp2.2\DelegeteFilters.deps.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\bin\Debug\netcoreapp2.2\DelegeteFilters.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\bin\Debug\netcoreapp2.2\DelegeteFilters.runtimeconfig.dev.json
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\bin\Debug\netcoreapp2.2\DelegeteFilters.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\bin\Debug\netcoreapp2.2\DelegeteFilters.pdb
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.csprojAssemblyReference.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.csproj.CoreCompileInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.AssemblyInfoInputs.cache
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.AssemblyInfo.cs
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.dll
+D:\Projects\ITI.net-training-2019\2- Second Day\OOP\DelegeteFilters\obj\Debug\netcoreapp2.2\DelegeteFilters.pdb
