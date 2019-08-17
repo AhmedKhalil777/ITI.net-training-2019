@@ -1,0 +1,12 @@
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\Day1Project.exe.config
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\Day1Project.exe
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\Day1Project.pdb
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\obj\Debug\Day1Project.csprojAssemblyReference.cache
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\obj\Debug\Day1Project.csproj.CoreCompileInputs.cache
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\obj\Debug\Day1Project.exe
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\obj\Debug\Day1Project.pdb
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\EntityFramework.dll
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\EntityFramework.xml
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\intake39\training\EF Days\EF Day1\Day1Project\Day1Project\obj\Debug\Day1Project.csproj.CopyComplete

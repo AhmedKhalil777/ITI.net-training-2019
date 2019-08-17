@@ -1,0 +1,11 @@
+D:\Projects\ITI.net-training-2019\1to99,999,999\bin\Debug\netcoreapp2.2\1to99,999,999.deps.json
+D:\Projects\ITI.net-training-2019\1to99,999,999\bin\Debug\netcoreapp2.2\1to99,999,999.runtimeconfig.json
+D:\Projects\ITI.net-training-2019\1to99,999,999\bin\Debug\netcoreapp2.2\1to99,999,999.runtimeconfig.dev.json
+d:\Projects\ITI.net-training-2019\1to99,999,999\bin\Debug\netcoreapp2.2\1to99,999,999.dll
+d:\Projects\ITI.net-training-2019\1to99,999,999\bin\Debug\netcoreapp2.2\1to99,999,999.pdb
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.csprojAssemblyReference.cache
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.csproj.CoreCompileInputs.cache
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.AssemblyInfoInputs.cache
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.AssemblyInfo.cs
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.dll
+d:\Projects\ITI.net-training-2019\1to99,999,999\obj\Debug\netcoreapp2.2\1to99,999,999.pdb
