@@ -1,0 +1,14 @@
+D:\Projects\EFDay1\bin\Debug\EFDay1.exe.config
+D:\Projects\EFDay1\bin\Debug\EFDay1.exe
+D:\Projects\EFDay1\bin\Debug\EFDay1.pdb
+D:\Projects\EFDay1\obj\Debug\EFDay1.csprojAssemblyReference.cache
+D:\Projects\EFDay1\obj\Debug\EFDay1.csproj.CoreCompileInputs.cache
+D:\Projects\EFDay1\obj\Debug\EFDay1.exe
+D:\Projects\EFDay1\obj\Debug\EFDay1.pdb
+D:\Projects\EFDay1\bin\Debug\NORTHWND.MDF
+D:\Projects\EFDay1\bin\Debug\NORTHWND_log.ldf
+D:\Projects\EFDay1\bin\Debug\EntityFramework.dll
+D:\Projects\EFDay1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EFDay1\bin\Debug\EntityFramework.xml
+D:\Projects\EFDay1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EFDay1\obj\Debug\EFDay1.csproj.CopyComplete

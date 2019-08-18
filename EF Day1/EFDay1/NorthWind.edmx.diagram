@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="81640d74c7264b2ab763a37c194884d6" Name="Diagram1">
+        <EntityTypeShape EntityType="NORTHWNDModel.Customer" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Order" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Employee" Width="1.5" PointX="5.375" PointY="1.125" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Employees_Employees" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Orders_Employees" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Product" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Order_Detail" Width="1.5" PointX="5.25" PointY="7.375" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Order_Details_Orders" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Order_Details_Products" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Territory" Width="1.5" PointX="7.625" PointY="2.875" />
+        <AssociationConnector Association="NORTHWNDModel.EmployeeTerritories" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
